@@ -6,7 +6,7 @@ export function getInfoInvitation() {
     const anakKe = 'ke dua';
     const hariAcara = 'Minggu, 9 Juli 2023';
     const waktu = 'Pukul 09:00 WIB - 16:00 WIB'
-    const alamat = 'Jalan Manunggal Bhakti RT/RW. 009/011, Kel. Kalisari Kec. Pasar Rebo Jakarta timur'
+    const alamat = 'Jalan Manunggal Bhakti RT/RW. 008/011 No. 85, Kel. Kalisari Kec. Pasar Rebo Jakarta timur'
 
 
     return {
